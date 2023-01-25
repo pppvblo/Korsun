@@ -26,7 +26,7 @@
             <RowDefinition Height="80"/>
             <RowDefinition Height="10"/>
             <RowDefinition Height="80"/>
-            <RowDefinition Height="*"/>
+            <RowDefinition Height="10"/>
         </Grid.RowDefinitions>
 
         <TextBox x:Name="EditLoginTB" 
